@@ -1,6 +1,5 @@
 ## RoadAccidentDataAnalysis
-This repository contains a notebook that analyses road accident data, that aims to generate insights that could enable better decision
-making and resource management for emergency services.
+This repository contains a notebook that analyses road accident data with the goal of generating insights that could enable better decision making and resource management for emergency services.
 
 ## Source
 The original data source was taken from Data Science website kaggle link below.
